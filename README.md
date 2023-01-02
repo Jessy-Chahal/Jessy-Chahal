@@ -12,12 +12,12 @@
 
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=c58545&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=c58545&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=css3&color=c58545&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=c58545&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=c58545&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=c58545&logoColor=c58545&labelColor=282828">
+  <img src="https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5&color=20232a&logoColor=20232a&labelColor=5fd4f4">
+  <img src="https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&color=20232a&logoColor=20232a&labelColor=5fd4f4">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=css3&color=20232a&logoColor=20232a&labelColor=5fd4f4">
+  <img src="https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python&color=20232a&logoColor=20232a&labelColor=5fd4f4">
+  <img src="https://img.shields.io/badge/-React-000?style=for-the-badge&logo=react&color=20232a&logoColor=20232a&labelColor=5fd4f4">
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&color=20232a&logoColor=20232a&labelColor=5fd4f4">
 </div>
 </p>
 

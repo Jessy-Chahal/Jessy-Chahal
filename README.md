@@ -1,4 +1,5 @@
 
+<br>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=5FD4F4&center=true&vCenter=true&width=500&lines=Jessy+Chahal" alt="Typing SVG" />
@@ -40,14 +41,3 @@ class JessyChahal():
 if __name__ == '__main__':
     me = JessyChahal()
 ```
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://github.com/Jessy-Chahal">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Jessy-Chahal&show_icons=true&theme=react&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Jessy-Chahal&theme=react&hide_border=true" />
-  </a>
-</p>
-<br>
